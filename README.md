@@ -5,7 +5,7 @@
 This web application leverages AI to generate personalized song recommendations based on a user's mood described in natural language. It uses the Google Gemini API to interpret the mood and the Spotify API to find relevant music, providing a seamless music discovery experience.
 
 ## Screenshot
-<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/92a01802-8f07-4fe1-9eb4-e7d7873f0a86" />
+<img width="1364" height="725" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/a69c38f8-8fc5-4985-817c-3d90624284ba" />
 
 
 ![App Screenshot](placeholder-screenshot.png)
