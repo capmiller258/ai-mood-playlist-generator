@@ -67,7 +67,3 @@ To run this project locally, you will need to have Python, Node.js, and npm inst
     npm start
     ```
     The application will open in your browser at `http://localhost:3000`.
-
-## Demo Links
-
-(If you deploy your project, you can add the live link here. Otherwise, you can remove this section.)
