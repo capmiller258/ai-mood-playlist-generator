@@ -1,30 +1,31 @@
 # AI Mood-Based Playlist Generator
 
-## [cite_start]Project Description [cite: 56]
+## Project Description
 
 This web application leverages AI to generate personalized song recommendations based on a user's mood described in natural language. It uses the Google Gemini API to interpret the mood and the Spotify API to find relevant music, providing a seamless music discovery experience.
 
-## [cite_start]Screenshot [cite: 58]
-
-<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/e85884e0-b020-47ab-b720-f06482c9bbda" />
+## Screenshot
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/92a01802-8f07-4fe1-9eb4-e7d7873f0a86" />
 
 
 ![App Screenshot](placeholder-screenshot.png)
 
-## [cite_start]Technology Stack [cite: 60]
+## Technology Stack
 
-* [cite_start]**Frontend:** React.js [cite: 20]
-* **Backend:** Python with Flask
-* [cite_start]**APIs:** Google Gemini API [cite: 14][cite_start], Spotify API [cite: 15]
+* **Frontend:** React.js
+* **Backend:** Python (with Flask)
+* **APIs:**
+    * Google Gemini API for natural language processing and recommendations.
+    * Spotify API for searching and retrieving track data.
 
-## [cite_start]Features Implemented [cite: 62]
+## Features Implemented
 
-* [cite_start]**Natural Language Input Processing:** Allows users to describe their mood or vibe in a simple text box[cite: 13].
-* [cite_start]**AI-Powered Recommendations:** Integrates with the Gemini AI to interpret the user's prompt and suggest relevant musical themes[cite: 14].
-* [cite_start]**Spotify Integration:** Connects with the Spotify API to fetch a list of recommended songs[cite: 15].
-* [cite_start]**Dynamic UI:** Displays the list of recommended songs with track titles, artists, and album art[cite: 16].
+* **Natural Language Input:** Users can describe their mood or vibe in a simple text box.
+* **AI-Powered Recommendations:** Integrates with the Gemini AI to interpret the user's prompt and suggest relevant musical themes.
+* **Spotify Integration:** Connects with the Spotify API to fetch a list of recommended songs.
+* **Dynamic UI:** Displays the list of recommended songs with track titles, artists, and album art.
 
-## [cite_start]Setup Instructions [cite: 59]
+## Setup Instructions
 
 To run this project locally, you will need to have Python, Node.js, and npm installed.
 
@@ -67,6 +68,6 @@ To run this project locally, you will need to have Python, Node.js, and npm inst
     ```
     The application will open in your browser at `http://localhost:3000`.
 
-## [cite_start]Demo Links [cite: 62]
+## Demo Links
 
 (If you deploy your project, you can add the live link here. Otherwise, you can remove this section.)
